@@ -1,0 +1,7 @@
+echo "# Emmy-Best-Enterprise" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Akachukwu-Israel57/Emmy-Best-Enterprise.git
+git push -u origin main
